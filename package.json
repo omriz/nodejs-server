@@ -1,0 +1,24 @@
+{
+  "name": "@omriz/baseserver",
+  "version": "1.0.0",
+  "description": "Simple Http server experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omriz/nodejs-server.git"
+  },
+  "keywords": [
+    "Http",
+    "experiment",
+    "server"
+  ],
+  "author": "Omri Zohar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omriz/nodejs-server/issues"
+  },
+  "homepage": "https://github.com/omriz/nodejs-server#readme"
+}
